@@ -446,7 +446,6 @@ KASLR / Kernel Address Space Layout Randomization，KASLR在每次内核重新�
 
 注意：在目前的Linux版本中，当KASLR被启用，内核映射区域由512MB变为1GB [[22]]：
 linux/arch/x86/include/asm/``page_64_types.h``
-----------------------------------------------
 63行：
 ```c
 /*
