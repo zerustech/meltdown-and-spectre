@@ -1848,7 +1848,7 @@ Hashwell处理器上却不行。AMD宣称“其Ryzen处理器具备一个AI神�
 # 6. 参考文献
 A                                                                                           | B
 --------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------
- [1] [Meltdown & Spectre][1]                                                                |  [2] [Meltdown & Spectre - the Inner Workings][2]
+ \[1\] [Meltdown & Spectre][1]                                                                |  [2] [Meltdown & Spectre - the Inner Workings][2]
  [3] [Some thoughts on Spectre and Meltdown][3]                                             |  [4] [Meltdown and Spectre, Explained][4]
  [5] [HugeTLB - Large Page Support in the Linux Kernel][5]                                  |  [6] [Sandy Bridge][6]
  [7] [L3 Cache Mapping on Sandy Bridge CPUs][7]                                             |  [8] [Retpoline: a Software Construct for Preventing Branch-Target-Injection][8]
